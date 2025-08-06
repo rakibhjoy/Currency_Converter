@@ -1,3 +1,4 @@
+project live link: https://rakibhjoy.github.io/Currency_Converter/
 # 🌍 Modern Currency Converter
 
 A beautiful, responsive, and feature-rich currency converter web application with real-time exchange rates powered by live API integration.
